@@ -1,0 +1,6 @@
+G:\Đồ án1\FoodManagerApp\PresentationLayer\bin\Debug\PresentationLayer.dll
+G:\Đồ án1\FoodManagerApp\PresentationLayer\bin\Debug\PresentationLayer.pdb
+G:\Đồ án1\FoodManagerApp\PresentationLayer\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+G:\Đồ án1\FoodManagerApp\PresentationLayer\obj\Debug\PresentationLayer.dll
+G:\Đồ án1\FoodManagerApp\PresentationLayer\obj\Debug\PresentationLayer.pdb
+G:\Đồ án1\FoodManagerApp\PresentationLayer\obj\Debug\DTO.csprojAssemblyReference.cache
